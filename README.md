@@ -2,6 +2,9 @@
 
 This document contains some basic instructions for how to interact with this project
 
+# LINK TO PREVIEW OF PROJECT
+http://htmlpreview.github.io/?https://github.com/jtcanfield/star/blob/master/starter_files/index.html
+
 ## Solution Files
 This project doesn't include solution files.
 
